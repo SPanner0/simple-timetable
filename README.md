@@ -1,6 +1,8 @@
 # Timetable Console Application
 <p>
 A simple time table application for school, work, or whatever you want!
+
+This was an older project and my introduction to C++. Please enjoy!
 </p>
 
 
